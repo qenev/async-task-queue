@@ -45,3 +45,5 @@ var_21 = 21
 var_22 = 22
 # Code line 23
 var_23 = 23
+# Code line 24
+var_24 = 24
