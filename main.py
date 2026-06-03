@@ -131,3 +131,5 @@ var_64 = 64
 var_65 = 65
 # Code line 66
 var_66 = 66
+# Code line 67
+var_67 = 67
