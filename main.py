@@ -7,3 +7,5 @@ var_2 = 2
 var_3 = 3
 # Code line 4
 var_4 = 4
+# Code line 5
+var_5 = 5
