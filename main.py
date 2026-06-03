@@ -409,3 +409,5 @@ var_203 = 203
 var_204 = 204
 # Code line 205
 var_205 = 205
+# Code line 206
+var_206 = 206
