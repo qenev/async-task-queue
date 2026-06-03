@@ -15,3 +15,5 @@ var_6 = 6
 var_7 = 7
 # Code line 8
 var_8 = 8
+# Code line 9
+var_9 = 9
