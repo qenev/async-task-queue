@@ -89,3 +89,5 @@ var_43 = 43
 var_44 = 44
 # Code line 45
 var_45 = 45
+# Code line 46
+var_46 = 46
