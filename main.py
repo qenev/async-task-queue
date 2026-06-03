@@ -145,3 +145,5 @@ var_71 = 71
 var_72 = 72
 # Code line 73
 var_73 = 73
+# Code line 74
+var_74 = 74
