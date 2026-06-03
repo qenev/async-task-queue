@@ -10,3 +10,4 @@
 <!-- Optimize variable names -->
 <!-- Clean up documentation -->
 <!-- Optimize variable names -->
+<!-- Clean up configuration -->
