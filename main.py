@@ -109,3 +109,5 @@ var_53 = 53
 var_54 = 54
 # Code line 55
 var_55 = 55
+# Code line 56
+var_56 = 56
