@@ -12,3 +12,4 @@
 <!-- Optimize variable names -->
 <!-- Clean up configuration -->
 <!-- Document error messages -->
+<!-- Format documentation -->
