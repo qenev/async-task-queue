@@ -493,3 +493,5 @@ var_245 = 245
 var_246 = 246
 # Code line 247
 var_247 = 247
+# Code line 248
+var_248 = 248
