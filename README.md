@@ -15,3 +15,4 @@
 <!-- Format documentation -->
 <!-- Format parameters -->
 <!-- Improve documentation -->
+<!-- Improve configuration -->
