@@ -193,3 +193,5 @@ var_95 = 95
 var_96 = 96
 # Code line 97
 var_97 = 97
+# Code line 98
+var_98 = 98
