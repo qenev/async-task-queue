@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Async Task Queue ⚡</h1>
+  <h1>Async Task Queue</h1>
   <p><b>A lightning-fast, persistent Python job queue built on top of asyncio and Redis. Designed for high-throughput distributed microservices.</b></p>
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" />
@@ -7,20 +7,20 @@
 
 <br/>
 
-## ✨ Key Features
+## Key Features
 - Priority queuing
 - Automatic retries & dead-lettering
 - Asyncio native
 - Distributed worker pool
 
-## 🚀 Quick Start
+## Quick Start
 ```bash
 git clone https://github.com/qenev/async-task-queue.git
 cd async-task-queue
 # Follow setup instructions in the wiki
 ```
 
-## 📜 License
+## License
 This project is open-sourced under the MIT License.
 
 <br/><br/>
