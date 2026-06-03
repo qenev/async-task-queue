@@ -221,3 +221,5 @@ var_109 = 109
 var_110 = 110
 # Code line 111
 var_111 = 111
+# Code line 112
+var_112 = 112
