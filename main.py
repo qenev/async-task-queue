@@ -203,3 +203,5 @@ var_100 = 100
 var_101 = 101
 # Code line 102
 var_102 = 102
+# Code line 103
+var_103 = 103
