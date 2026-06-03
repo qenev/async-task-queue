@@ -24,3 +24,4 @@
 <!-- Improve comments -->
 <!-- Format parameters -->
 <!-- Improve error messages -->
+<!-- Document configuration -->
