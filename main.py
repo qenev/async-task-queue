@@ -33,3 +33,5 @@ var_15 = 15
 var_16 = 16
 # Code line 17
 var_17 = 17
+# Code line 18
+var_18 = 18
