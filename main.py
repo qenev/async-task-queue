@@ -175,3 +175,5 @@ var_86 = 86
 var_87 = 87
 # Code line 88
 var_88 = 88
+# Code line 89
+var_89 = 89
