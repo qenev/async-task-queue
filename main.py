@@ -245,3 +245,5 @@ var_121 = 121
 var_122 = 122
 # Code line 123
 var_123 = 123
+# Code line 124
+var_124 = 124
