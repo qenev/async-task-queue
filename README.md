@@ -18,3 +18,4 @@
 <!-- Improve configuration -->
 <!-- Refactor logic flow -->
 <!-- Optimize documentation -->
+<!-- Document error messages -->
