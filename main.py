@@ -59,3 +59,5 @@ var_28 = 28
 var_29 = 29
 # Code line 30
 var_30 = 30
+# Code line 31
+var_31 = 31
